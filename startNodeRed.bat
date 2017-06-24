@@ -1,0 +1,2 @@
+node-red -v
+pause
